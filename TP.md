@@ -13,3 +13,9 @@ Le projet fonctionne jusqu'au déploiement via Nexus, en effet le build Jenkins 
 Durant la réalisation du projet nous avons rencontré notamment beaucoup de problèmes avex le script Jenkinsfile qui ne semblait pas reconnaître Maven comme installé, nous y avons donc remédié en ajoutant un code tools qui nous permet d'indiquer à Jenkins la présence de Maven en l'installant sur le serveur local via Apache, car il ne reconnaissait pas l'installation locale de l'ordinateur.
 
 Malgré ces problèmes de déploiement via Nexus, le build, packaging et vérification de tests (dont certains ajoutés pour procéder à des vérifications) fonctionnent correctement, c'est bien l'utilisation de Nexus qui nous a posé problème.
+
+
+# NPM 
+
+Nous avons mis le projet sur npm pour permetre de l'integrer facilment a d'autre projet voici le lien
+https://www.npmjs.com/package/cicd-projet
