@@ -35,4 +35,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * New test for jenkins build update
+     */
+    public void testAppJenkins()
+    {
+        assertFalse( false );
+    }
 }
