@@ -22,5 +22,5 @@ https://www.npmjs.com/package/cicd-projet
 
 # Docker 
 
-pour allé plus loin et comme docker nous intéressé nous avoons dessider de faire le packaging dicker nous avons donc installer docker sur nos machine que nous avons reussie a faire fonctionner le server docker fonctionne bien par contre en essayant d'utiliser nexus avec docker pour faire le package et le partage sur npm mais du a un problème d'identification sur nexus mot de passe session admin introuvable. je n'est 
+pour allé plus loin et comme docker nous intéressé nous avons dessider de faire le packaging dicker nous avons donc installer docker sur nos machine que nous avons reussie a faire fonctionner le server docker fonctionne bien par contre en essayant d'utiliser nexus avec docker pour faire le package et le partage sur npm mais du a un problème d'identification sur nexus mot de passe session admin introuvable. je n'est 
 pas pû faire le déploiement sur nexus .
