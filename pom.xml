@@ -15,20 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
-    <repository>
-        <id>nexusLocal</id>
-        <url>http://localhost:8081/repository/nexusLocal/</url>
-    </repository>
-    <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>http://localhost:8081/repository/maven-snapshots/</url>
-   </snapshotRepository>
-   <releaseRepository>
-      <id>maven-releases</id>
-      <url>http://localhost:8081/repository/maven-releases/</url>
-   </releaseRepository>
-</distributionManagement>
   <build>
     <plugins>
       <plugin>
