@@ -1,0 +1,21 @@
+{
+  "name": "cicd-projet",
+  "version": "1.0.0",
+  "description": "snake game",
+  "main": "main.java",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nizAch/cicd-projet.git"
+  },
+  "author": "nizar nolan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nizAch/cicd-projet/issues"
+  },
+  "homepage": "https://github.com/nizAch/cicd-projet#readme"
+}
