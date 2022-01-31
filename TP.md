@@ -17,10 +17,9 @@ Malgré ces problèmes de déploiement via Nexus, le build, packaging et vérifi
 
 # NPM 
 
-Nous avons mis le projet sur npm pour permetre de l'integrer facilment a d'autre projet voici le lien
+Nous avons mis le projet sur npm pour permettre de l'intégrer facilement à d'autres projets:
 https://www.npmjs.com/package/cicd-projet
 
 # Docker 
 
-pour allé plus loin et comme docker nous intéressé nous avons dessider de faire le packaging dicker nous avons donc installer docker sur nos machine que nous avons reussie a faire fonctionner le server docker fonctionne bien par contre en essayant d'utiliser nexus avec docker pour faire le package et le partage sur npm mais du a un problème d'identification sur nexus mot de passe session admin introuvable. je n'est 
-pas pû faire le déploiement sur nexus .
+Pour aller plus loin, comme Docker nous intéressait, nous avons décidé d'implémenter un packaging Docker. Nous avons donc installé Docker sur une machine afin de tester le packaging et l'installation sans souci niveau serveur. Cependant, en essayant d'utiliser Nexus en combinaison avec Docker et npm, nous retrouvons le même problème d'authentification impossible, nous n'avons encore une fois pas pu déployer le projet via Nexus.
